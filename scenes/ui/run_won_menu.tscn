@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://my8bb6mhwp1t"]
 
-[ext_resource type="Script" path="res://scenes/ui/run_won_menu.gd" id="1_vko60"]
+[ext_resource type="Script" uid="uid://dxrqotnxgso5x" path="res://scenes/ui/run_won_menu.gd" id="1_vko60"]
 
 [node name="RunWonMenu" type="Control"]
 layout_mode = 3
